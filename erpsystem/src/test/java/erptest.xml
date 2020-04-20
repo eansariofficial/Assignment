@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name ="Test Automation">
+<test name = "erp test">
+<classes>
+
+<class name = "com.erpassignment.testcase.ContactTestCases" />
+<class name = "com.erpassignment.testcase.CompanyTestCases" />
+<class name = "com.erpassignment.testcase.DealsTestCases" />
+<class name = "com.erpassignment.testcase.TaskTestCases"/>
+<class name = "com.erpassignment.testcase.CasePageTestCse"/>
+<class name = "com.erpassignment.testcase.CAllTestCases"/>
+</classes>
+</test>
+</suite>

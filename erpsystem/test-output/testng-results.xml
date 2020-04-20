@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Automation" duration-ms="448709" started-at="2020-04-20T22:37:20Z" finished-at="2020-04-20T22:44:49Z">
+    <groups>
+    </groups>
+    <test name="erp test" duration-ms="448709" started-at="2020-04-20T22:37:20Z" finished-at="2020-04-20T22:44:49Z">
+      <class name="com.erpassignment.testcase.ContactTestCases">
+        <test-method status="PASS" signature="initial()[pri:0, instance:com.erpassignment.testcase.ContactTestCases@41fecb8b]" name="initial" is-config="true" duration-ms="27249" started-at="2020-04-21T04:07:20Z" finished-at="2020-04-21T04:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method status="PASS" signature="contactwork()[pri:0, instance:com.erpassignment.testcase.ContactTestCases@41fecb8b]" name="contactwork" duration-ms="24661" started-at="2020-04-21T04:07:47Z" finished-at="2020-04-21T04:08:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactwork -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.erpassignment.testcase.ContactTestCases@41fecb8b]" name="finish" is-config="true" duration-ms="12128" started-at="2020-04-21T04:08:12Z" finished-at="2020-04-21T04:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.erpassignment.testcase.ContactTestCases -->
+      <class name="com.erpassignment.testcase.TaskTestCases">
+        <test-method status="PASS" signature="initial()[pri:0, instance:com.erpassignment.testcase.TaskTestCases@51dcb805]" name="initial" is-config="true" duration-ms="30695" started-at="2020-04-21T04:10:50Z" finished-at="2020-04-21T04:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method status="PASS" signature="DealPageWork()[pri:0, instance:com.erpassignment.testcase.TaskTestCases@51dcb805]" name="DealPageWork" duration-ms="12741" started-at="2020-04-21T04:11:21Z" finished-at="2020-04-21T04:11:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DealPageWork -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.erpassignment.testcase.TaskTestCases@51dcb805]" name="finish" is-config="true" duration-ms="12094" started-at="2020-04-21T04:11:33Z" finished-at="2020-04-21T04:11:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.erpassignment.testcase.TaskTestCases -->
+      <class name="com.erpassignment.testcase.CompanyTestCases">
+        <test-method status="PASS" signature="initial()[pri:0, instance:com.erpassignment.testcase.CompanyTestCases@120f102b]" name="initial" is-config="true" duration-ms="25092" started-at="2020-04-21T04:08:24Z" finished-at="2020-04-21T04:08:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method status="PASS" signature="contactwork()[pri:0, instance:com.erpassignment.testcase.CompanyTestCases@120f102b]" name="contactwork" duration-ms="57890" started-at="2020-04-21T04:08:49Z" finished-at="2020-04-21T04:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactwork -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.erpassignment.testcase.CompanyTestCases@120f102b]" name="finish" is-config="true" duration-ms="12169" started-at="2020-04-21T04:09:47Z" finished-at="2020-04-21T04:09:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.erpassignment.testcase.CompanyTestCases -->
+      <class name="com.erpassignment.testcase.CAllTestCases">
+        <test-method status="PASS" signature="initial()[pri:0, instance:com.erpassignment.testcase.CAllTestCases@cad498c]" name="initial" is-config="true" duration-ms="30235" started-at="2020-04-21T04:13:23Z" finished-at="2020-04-21T04:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method status="PASS" signature="callPageWork()[pri:0, instance:com.erpassignment.testcase.CAllTestCases@cad498c]" name="callPageWork" duration-ms="43896" started-at="2020-04-21T04:13:53Z" finished-at="2020-04-21T04:14:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callPageWork -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.erpassignment.testcase.CAllTestCases@cad498c]" name="finish" is-config="true" duration-ms="12041" started-at="2020-04-21T04:14:37Z" finished-at="2020-04-21T04:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.erpassignment.testcase.CAllTestCases -->
+      <class name="com.erpassignment.testcase.CasePageTestCse">
+        <test-method status="PASS" signature="initial()[pri:0, instance:com.erpassignment.testcase.CasePageTestCse@66498326]" name="initial" is-config="true" duration-ms="31553" started-at="2020-04-21T04:11:45Z" finished-at="2020-04-21T04:12:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method status="PASS" signature="addCases()[pri:0, instance:com.erpassignment.testcase.CasePageTestCse@66498326]" name="addCases" duration-ms="53374" started-at="2020-04-21T04:12:17Z" finished-at="2020-04-21T04:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCases -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.erpassignment.testcase.CasePageTestCse@66498326]" name="finish" is-config="true" duration-ms="12303" started-at="2020-04-21T04:13:10Z" finished-at="2020-04-21T04:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.erpassignment.testcase.CasePageTestCse -->
+      <class name="com.erpassignment.testcase.DealsTestCases">
+        <test-method status="PASS" signature="initial()[pri:0, instance:com.erpassignment.testcase.DealsTestCases@625732]" name="initial" is-config="true" duration-ms="25535" started-at="2020-04-21T04:09:59Z" finished-at="2020-04-21T04:10:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method status="PASS" signature="DealPageWork()[pri:0, instance:com.erpassignment.testcase.DealsTestCases@625732]" name="DealPageWork" duration-ms="12935" started-at="2020-04-21T04:10:25Z" finished-at="2020-04-21T04:10:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DealPageWork -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.erpassignment.testcase.DealsTestCases@625732]" name="finish" is-config="true" duration-ms="12078" started-at="2020-04-21T04:10:38Z" finished-at="2020-04-21T04:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.erpassignment.testcase.DealsTestCases -->
+    </test> <!-- erp test -->
+  </suite> <!-- Test Automation -->
+</testng-results>

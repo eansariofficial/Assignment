@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Test Automation]">
+  <test name="erp test(failed)">
+    <classes>
+      <class name="com.erpassignment.testcase.ContactTestCases">
+        <methods>
+          <include name="initial"/>
+          <include name="finish"/>
+        </methods>
+      </class> <!-- com.erpassignment.testcase.ContactTestCases -->
+      <class name="com.erpassignment.testcase.CAllTestCases">
+        <methods>
+          <include name="finish"/>
+          <include name="initial"/>
+        </methods>
+      </class> <!-- com.erpassignment.testcase.CAllTestCases -->
+      <class name="com.erpassignment.testcase.CasePageTestCse">
+        <methods>
+          <include name="finish"/>
+          <include name="initial"/>
+        </methods>
+      </class> <!-- com.erpassignment.testcase.CasePageTestCse -->
+      <class name="com.erpassignment.testcase.DealsTestCases">
+        <methods>
+          <include name="finish"/>
+          <include name="initial"/>
+        </methods>
+      </class> <!-- com.erpassignment.testcase.DealsTestCases -->
+      <class name="com.erpassignment.testcase.TaskTestCases">
+        <methods>
+          <include name="initial"/>
+          <include name="finish"/>
+        </methods>
+      </class> <!-- com.erpassignment.testcase.TaskTestCases -->
+      <class name="com.erpassignment.testcase.CompanyTestCases">
+        <methods>
+          <include name="contactwork"/>
+          <include name="initial"/>
+        </methods>
+      </class> <!-- com.erpassignment.testcase.CompanyTestCases -->
+    </classes>
+  </test> <!-- erp test(failed) -->
+</suite> <!-- Failed suite [Test Automation] -->
